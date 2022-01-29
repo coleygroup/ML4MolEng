@@ -8,4 +8,8 @@ Materials and problem sets for the course Machine Learning for Molecular Enginee
 
 **Course Numbers**: 3.C01/3.C51, 10.C01/10.C51, 20.C01/20.C51
 
-Problem set 0 to be released soon.
+## Problem Sets
+
+[**PS0**](https://github.com/vikram-sundar/ML4MolEng_Spring2022/blob/main/psets/ps0/MLMOL_Spring_2022_PS0.pdf)
+
+Ungraded problem set (no submission) to practice using Google Colab and numpy.
