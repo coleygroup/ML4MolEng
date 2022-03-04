@@ -31,3 +31,9 @@ You will apply a MLP regressor to predict properties of perovskites. You will co
 Data size: ~10^3
 
 You will apply an MLP regressor to predict MHC binding to peptides. You will compare differences between different representations of the amino acid composition of a peptide. You will also use [hyperopt](https://github.com/hyperopt/hyperopt) to perform hyperparameter search for your MLP architecture.
+
+[**PS3**](https://github.com/vikram-sundar/ML4MolEng_Spring2022/blob/master/psets/ps3/MLMOL_Spring_2022_PS3.pdf)
+
+Data size: ~10^4
+
+This problem set has two parts: 1) In the first part, you will use PyTorch to train a LSTM-based classifier to classify DNA binding sites. 2) In the second part, you will try to reduce a high-dimensional dataset into lower dimensions with PCA and t-SNE. You will try to find out if the obtained low-dimensional embedding is meaningful. 
