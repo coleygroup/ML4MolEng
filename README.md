@@ -40,6 +40,6 @@ This problem set has two parts: 1) In the first part, you will use PyTorch to tr
 
 [**PS4**](https://github.com/vikram-sundar/ML4MolEng_Spring2022/blob/master/psets/ps4/MLMOL_Spring_2022_PS4.pdf)
 
-data size:~10^6
+Data size: ~10^6
 
-This problem set will be more meaty than previous ones. You will implement your own Graph Neural Nets to predict molecular properties and traing a Variational Auto-Encoder to generate new molecules from a learned hidden continuous representation.
+This problem set will be more meaty than the previous ones. You will implement your own Graph Neural Nets to predict molecular properties and train a Variational Auto-Encoder to generate new molecules from a learned hidden continuous representation.
