@@ -49,3 +49,15 @@ This problem set will be more meaty than the previous ones. You will implement y
 Data size: ~10^3
 
 This problem set is an application of computer vision to molecular engineering. You will use a deep learning model to classify steel surface defects and perform image segmentation to identify cell nuclei.
+
+[**PS6 (Cancer)**](https://github.com/vikram-sundar/ML4MolEng_Spring2022/blob/master/psets/ps6-cancer/MLMOL_Spring_2022_PS6__Cancer_.pdf)
+
+Data size: ~10^3
+
+You will complete a short clustering exercise and participate in a ML competition to predict progression-free survival of cancer patients.
+
+[**PS6 (Molecule)**](https://github.com/vikram-sundar/ML4MolEng_Spring2022/blob/master/psets/ps6-molecule/MLMOL_Spring_2022_PS6__Molecule_.pdf)
+
+Data size: ~10^3
+
+You will participate in a ML competition to predict solvation free energies of solute/solvent pairs.
