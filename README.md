@@ -10,29 +10,29 @@ Materials and problem sets for the course Machine Learning for Molecular Enginee
 
 ## Problem Sets
 
-[**PS0**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps0/MLMOL_Spring_2024_PS0.pdf)
+[**PS0**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps0/ML4MolEng_Spring_2024_PS0.pdf)
 
 Ungraded problem set (no submission) to practice using Google Colab and numpy.
 
-[**PS1**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps1/MLMOL_Spring_2024_PS1.pdf)
+[**PS1**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps1/ML4MolEng_Spring_2024_PS1.pdf)
 
 Data size: ~10^2
 
 Basic linear classification problem to get you started for the course. You will use logistic regression to diagnose cancer. You will apply linear methods with L1 and L2 regularization and understand what effects they have on your regression results. You also will experiment with hyperparameter optimization to tune your model with cross-validation.
 
-[**PS2 (Perovskites)**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps2-perov/MLMOL_Spring_2024_PS2_Perovskites.pdf) 
+[**PS2 (Perovskites)**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps2-perov/ML4MolEng_Spring_2024_PS2_Perovskites.pdf) 
 
 Data size: ~10^3
 
 You will apply a MLP regressor to predict properties of perovskites. You will compare differences between different representations of the chemical composition of a perovskite crystal. You will also use [hyperopt](https://github.com/hyperopt/hyperopt) to perform hyperparameter search for your MLP architecture.
 
-[**PS2 (MHC)**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps2-MHC/MLMOL_Spring_2024_PS2_MHC.pdf)
+[**PS2 (MHC)**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps2-MHC/ML4MolEng_Spring_2024_PS2_MHC.pdf)
 
 Data size: ~10^3
 
 You will apply an MLP regressor to predict MHC binding to peptides. You will compare differences between different representations of the amino acid composition of a peptide. You will also use [hyperopt](https://github.com/hyperopt/hyperopt) to perform hyperparameter search for your MLP architecture.
 
-[**PS3**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps3/MLMOL_Spring_2024_PS3.pdf)
+[**PS3**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps3/ML4MolEng_Spring_2024_PS3.pdf)
 
 Data size: ~10^4
 
@@ -40,13 +40,13 @@ This problem set has two parts: 1) In the first part, you will use PyTorch to tr
 
 This problem set is an application of computer vision to molecular engineering. You will use a deep learning model to classify steel surface defects and perform image segmentation to identify cell nuclei.
 
-[**PS4**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps4/MLMOL_Spring_2024_PS4.pdf)
+[**PS4**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps4/ML4MolEngSpring_2024_PS4.pdf)
 
 Data size: ~10^6
 
 This problem set will be more meaty than the previous ones. You will implement your own Graph Neural Nets to predict molecular properties and train a Variational Auto-Encoder to generate new molecules from a learned hidden continuous representation.
 
-[**PS5**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps5/MLMOL_Spring_2024_PS5.pdf)
+[**PS5**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps5/ML4MolEng_Spring_2024_PS5.pdf)
 
 Data size: ~10^3
 
