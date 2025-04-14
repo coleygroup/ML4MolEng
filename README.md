@@ -44,7 +44,7 @@ Next, you will train a model to perform segmentation on images of cells (data si
 
 ### PS3
 
-In this problem set, you will train a 2D Graph Neural Network to predict solubility from molecular features, and investigate its insufficiency in predicting chirally-aware properties, namely IC$_50$.
+In this problem set, you will train a 2D Graph Neural Network to predict solubility from molecular features, and investigate its insufficiency in predicting chirally-aware properties, namely $IC_{50}$.
 
 [**Molecular Properties (3.C01/3.C51, 10.C01/10.C51)**](https://github.com/coleygroup/ML4MolEng/tree/main/psets/ps3-nonbio)
 
