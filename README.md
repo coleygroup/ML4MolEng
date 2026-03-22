@@ -2,11 +2,11 @@
 
 Materials and problem sets for the course Machine Learning for Molecular Engineering taught at MIT.
 
-**Instructors**: Prof. Connor Coley, Prof. Rafael Gomez-Bombarelli, Prof. Ernest Fraenkel, Prof. Joey Davis
+**Instructors (cumulative)**: Prof. Connor Coley, Prof. Rafael Gomez-Bombarelli, Prof. Ernest Fraenkel, Prof. Joey Davis, Prof. Sergey Ovchinnikov
 
-**Warning**: These assignments are a work in progress and will change. Do not start working on an assignment until it has been released on Canvas.
+**Warning**: These assignments are continually being revised and may change. Do not start working on an assignment until it has been released on Canvas.
 
-
+<!---
 ## Problem Sets
 
 ### PS0
@@ -54,7 +54,7 @@ In this problem set, you will train a Graph Neural Network (GNN) to predict synt
 
 
 
-<!---
+
 
 This problem set is an application of computer vision to molecular engineering. You will use a deep learning model to classify steel surface defects and perform image segmentation to identify cell nuclei.
 
